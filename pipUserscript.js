@@ -34,6 +34,7 @@ border: solid 1px rgb(0 128 255 / 80%);
 box-shadow: inset 0px 0px 2px 0px rgb(0 128 255);
 transition-duration: 0.25s;
 display:flex;
+cursor: pointer;
 }
 div.pipbutton:hover {
 background-color: rgb(0 128 255);
