@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         PiP Floating Button
 // @namespace    https://alekeagle.com
-// @version      1.0.1
+// @version      1.0.2
 // @description  A floating button over videos that will toggle PiP (This script only works for chrome, and is not needed for Firefox, as Firefox already has one).
 // @author       AlekEagle
 // @match        http://*/*
