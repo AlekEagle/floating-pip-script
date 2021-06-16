@@ -19,7 +19,7 @@ justify-content: flex-end;
 }
 div video {
 position: unset !important;
-z-index: 299999;
+z-index: 1;
 }
 div.pipbutton {
 position: absolute;
@@ -28,7 +28,7 @@ width: 30px;
 height: 30px;
 padding:3px;
 background-color: rgb(0 128 255 / 20%);
-z-index: 300000;
+z-index: 2;
 border-radius: 25%;
 border: solid 1px rgb(0 128 255 / 80%);
 box-shadow: inset 0px 0px 2px 0px rgb(0 128 255);
